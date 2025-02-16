@@ -26,7 +26,7 @@ Este projeto visa desenvolver uma solução IoT para monitoramento de temperatur
 #### 4. Como Instalar e Configurar o Projeto
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/limad1/IoT-Temperature-Monitoring-BitDogLab.git
    cd seu-repositorio
    ```
 
